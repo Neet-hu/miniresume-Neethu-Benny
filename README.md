@@ -12,9 +12,11 @@ This project is a REST API built using FastAPI that allows:
 - Fetching candidate by ID
 - Deleting candidate
 - Health check endpoint
-
+  
 Data persistence using SQLite database with SQLAlchemy.
 Database: SQLite (resumes.db) using SQLAlchemy ORM.
+
+
 ---
 
 ## Installation Steps
